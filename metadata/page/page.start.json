@@ -1,0 +1,12 @@
+{
+  "_id": "page.start",
+  "_type": "page.start",
+  "heading": "Feature - Conditional Email and Date of Birth",
+  "steps": [
+    "page.radios",
+    "page.email",
+    "page.summary",
+    "page.confirmation"
+  ],
+  "url": "/"
+}
